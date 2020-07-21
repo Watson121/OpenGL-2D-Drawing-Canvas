@@ -1,0 +1,10 @@
+﻿2D Drawing Canvas.obj : error LNK2019: unresolved external symbol __imp__glutInit@8 referenced in function _main
+2D Drawing Canvas.obj : error LNK2019: unresolved external symbol __imp__glutInitWindowPosition@8 referenced in function _main
+2D Drawing Canvas.obj : error LNK2019: unresolved external symbol __imp__glutInitWindowSize@8 referenced in function _main
+2D Drawing Canvas.obj : error LNK2019: unresolved external symbol __imp__glutInitDisplayMode@4 referenced in function _main
+2D Drawing Canvas.obj : error LNK2019: unresolved external symbol __imp__glutMainLoop@0 referenced in function _main
+2D Drawing Canvas.obj : error LNK2019: unresolved external symbol __imp__glutCreateWindow@4 referenced in function _main
+2D Drawing Canvas.obj : error LNK2019: unresolved external symbol __imp__glutReshapeFunc@4 referenced in function _main
+2D Drawing Canvas.obj : error LNK2019: unresolved external symbol __imp__glutDisplayFunc@4 referenced in function _main
+C:\Users\Adam\Desktop\2D Drawing Canvas\2D Drawing Canvas\2D Drawing Canvas\include\freeglut.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\Adam\Desktop\2D Drawing Canvas\2D Drawing Canvas\Debug\2D Drawing Canvas.exe : fatal error LNK1120: 8 unresolved externals
